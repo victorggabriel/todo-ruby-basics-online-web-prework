@@ -23,5 +23,5 @@ return "expert"
 end
 
 def pizza_party(topping = "Cheese")
-  return topping
+  return "#{topping}"
 end
